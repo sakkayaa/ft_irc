@@ -6,6 +6,8 @@
 
 A 42 School networking project that implements an IRC-style server using TCP sockets and `poll()`. Connect with an IRC client, join channels, exchange messages, and manage channel settings.
 
+<img src="assets/ft-irc-evaluation.png" alt="ft_irc project evaluation result" width="1000">
+
 </div>
 
 ## ✨ Features
